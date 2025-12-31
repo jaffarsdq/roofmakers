@@ -49,7 +49,7 @@ export default function Footer() {
         <div className="footer-container-box">
           <div className="footer-container-box-1">
             <img src={""} />
-            <h2 style={{ color: "rgb(27, 182, 238)" }}>PREDCISION ROOF MAKERS</h2>
+            <h2 style={{ color: "rgb(27, 182, 238)" }}>PREDCISION ROOF MAKERS git test</h2>
             <div className="social-media-icon">
               <FaFacebook />
               <FaInstagram />
